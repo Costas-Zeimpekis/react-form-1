@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
 
 
-
-
-export default class App extends Component {
+class PostIndex extends Component {
   render() {
     return (
       <div>
-
+        Posts index
       </div>
     )
   }
 }
+
+
+export default PostIndex;
